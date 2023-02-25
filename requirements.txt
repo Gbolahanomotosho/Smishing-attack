@@ -1,0 +1,5 @@
+requests
+phonenumbers
+pyfiglet
+json
+infobip_api_client
